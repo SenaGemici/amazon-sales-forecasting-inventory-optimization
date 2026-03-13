@@ -1,4 +1,4 @@
-# Amazon Sales Forecasting & Inventory Optimization
+# 📦 Amazon Sales Forecasting & Inventory Optimization
 ### (Amazon Satış Tahmini ve Envanter Optimizasyonu)
 ---
 ## 🇺🇸 English Description

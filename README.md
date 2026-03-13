@@ -390,7 +390,6 @@ için güvenilir sonuçlar sunmaktadır.
 Ancak **uzun vadeli tahminlerde artan belirsizlik nedeniyle dikkatli yorum yapılması önerilmektedir.**
 
 --- 
----
 
 ##  Conclusion & Future Work / Sonuç ve Gelecek Çalışmalar
 
